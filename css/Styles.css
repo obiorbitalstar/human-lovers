@@ -1,0 +1,39 @@
+body {
+    background-color:#f5f5f5;
+    }
+header h1 {
+color:rgb(173, 141, 50);
+text-align: center;
+}
+
+header nav ul li {
+display: inline-block;
+padding:25px;
+}
+a{
+    color:aqua;
+    text-decoration: none;
+     font: size 30px;;
+}
+img{
+    width: 400px;
+    height: 500px;
+}
+#cat {
+    width: 400px;
+    height: 500px;
+}
+.names{
+    color: red;
+}
+footer{
+    background-color: saddlebrown;
+}
+footer p{
+    color: white;
+    text-align: center;
+    padding: 30px;
+   border-radius: 30px;
+   border-color: blue;
+   border-width: 55px;
+}
